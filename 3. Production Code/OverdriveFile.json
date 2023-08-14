@@ -1,0 +1,123 @@
+{
+    "Original_Banks": {
+        "Commerzbank AG": [
+            [ "Commerzbank" ],
+            [ "COMMERZBANK" ]
+
+        ],
+
+        "Sparkasse Harburg-Buxtehude": [
+            [ "Sparkasse Harburg" ]
+        ],
+
+        "Sparkasse Bayreuth": [
+            [ "Sparkasse Bayereuth" ]
+        ],
+
+        "Weser-Elbe Sparkasse": [
+            [ "Wesser-Elbe Sparkasse" ]
+        ],
+
+        "J.P. Morgan AG": [
+            [ "Morgan" ]
+        ],
+
+        "Raiffeisenlandesbank Oberösterreich": [
+            [ "Landesbank", "Oberösterreich", "Raiffeisen" ]
+        ],
+
+        "Bank11 für Privatkunden und Handel GmbH": [
+            [ "Bank11" ]
+        ],
+
+        "Sparkasse Coburg - Lichtenfels": [
+            [ "Sparkasse Coburg" ]
+        ],
+
+        "Sparkasse Holstein": [
+            [ "Sparkasse Holstein" ]
+        ],
+
+        "Hamburger Commercial Bank": [
+            [ "HSH Hamburger Comercial Bank AG-Deutschland" ]
+        ],
+
+        "Norddeutsche Landesbank": [
+            [ "Norddeutsche Landesbank" ]
+        ],
+
+        "Landeskreditbank Baden-Württemberg": [
+            [ "L-Bank" ]
+        ],
+
+        "Landesbank Baden-Württemberg": [
+            [ "Landesbank Baden" ]
+        ],
+
+        "Bayerische Landesbank": [
+            [ "Bayerische Landesbank" ]
+        ],
+
+        "Volksbank Mittlerer Neckar eG": [
+            [ "Volksbank Mittlerer Neckar eG" ]
+        ],
+
+        "Deutsche Bank": [
+            [ "Deutsche Bank" ]
+        ],
+
+        "Deutsche Kreditbank AG": [
+            [ "Deutsche Kreditbank" ]
+        ],
+
+        "Volksbank Göppingen eG": [
+            [ "Volksbank Göppingen eG" ]
+        ],
+
+        "Western Union International Bank GmbH": [
+            [ "Western Union" ]
+        ],
+
+        "KEB Hana Bank (D) AG": [
+            [ "KEB" ]
+        ],
+
+        "Bank Deutsches Kraftfahrzeuggewerbe GmbH": [
+            [ "Kraftfahrzeug" ]
+        ],
+
+        "Metzler Asset Management GmbH": [
+            [ "METZLER" ]
+        ],
+
+        "PSA Bank Deutschland GmbH": [
+            [ "PSA" ]
+        ],
+
+        "CACEIS Bank S.A.": [
+            [ "CACEIS" ]
+        ],
+
+        "Sparda-Bank Baden-Württemberg eG": [
+            [ "sparda", "baden" ]
+        ],
+
+        "Rabobank": [
+            [ "Rabobank" ]
+        ],
+
+        "Hauck & Aufhäuser Privatbankiers AG": [
+            [ "Hauck" ]
+        ],
+
+        "Baden-Württembergische Bank": [
+            [ "Baden-Württembergische Bank" ]
+        ]
+
+
+    }
+}
+
+
+
+

@@ -1,0 +1,653 @@
+{
+    "Banks_Adjusted": {
+
+        "Industrial and Commercial Bank of China": [
+            [ "icbc" ],
+            [ "industrial", "commercial", "china" ]
+        ],
+
+        "Hamburg Commercial Bank AG": [
+            [ "hamburg", "commer" ],
+            ["nord","bank","hamburg"],
+            [ "hcob" ]
+        ],
+
+        "Commerzbank AG": [
+            [ "commerz", "bank" ],
+            [ "commer", "bank" ],
+            ["coomerz","bank"],
+            ["comerz","bank"],
+            ["coba"]
+        ],
+
+        "Commerz Factoring GmbH": [
+            [ "commerz", "factor" ]
+        ],
+
+        "Commerz Real Mobilienleasing GmbH": [
+            [ "commerz", "mobilien", "leasing" ]
+        ],
+
+        "Commerz Real AG": [
+            [ "commerz", "real" ]
+        ],
+
+        "CommerzTrust GmbH": [
+            [ "commerz", "trust" ]
+        ],
+
+        "Deutsche Factoring Bank GmbH & Co. KG":[
+            ["deutsch","factor","bank"]
+        ],
+
+        "Fyrst Bank":[
+            ["fyrst"]
+        ],
+
+        "DNB Bank": [
+            [ "dnb" ]
+        ],
+
+        "Deka Bank Deutsche Girozentrale":[
+            ["deka","bank"]
+        ],
+
+        "Deutsche Pfandbriefbank AG":[
+            ["deutsche","pfand","brief"]
+        ],
+
+        "Deutsche Kreditbank AG": [
+            [ "deutsche", "kredit", "bank" ],
+            [ "dkb" ]
+        ],
+
+        "Deutsche Postbank AG": [
+            [ "post", "bank" ]
+        ],
+
+        "Norddeutsche Landesbank": [
+            [ "nord", "deutsche", "landesbank" ],
+            [ "nord", "deutsche", "lb" ],
+            [ "nord lb" ],
+            [ "nordlb" ]
+        ],
+
+        "Deutsche Apotheker- und Ärztebank EG": [
+            [ "deutsche", "apotheker", "landesbank" ],
+            [ "apo" ]
+        ],
+
+        "DZ Bank AG Deutsche Zentral-Genossenschaftsbank": [
+            [ "dz", "bank" ]
+        ],
+
+        "IKB Deutsche Industriebank AG": [
+            [ "ikb"]
+        ],
+
+        "Deutsche Bundesbank": [
+            [ "deutsche", "bundes", "bank" ]
+        ],
+
+        "Deutsche Genossenschafts-Hypothekenbank": [
+            [ "dz", "hyp" ],
+            [ "deutsche", "genossenschaft", "hypothekenbank" ]
+        ],
+
+        "Deutsche Leasing Finance GmbH": [
+            [ "deutsche", "leasing" ]
+        ],
+
+        "UniCredit Leasing Finance GmbH": [
+            [ "unicredit", "leasing" ]
+        ],
+
+
+        "Jung DMS & Cie. GmbH": [
+            [ "jung" ]
+        ],
+
+        "SEB AG": [
+            [ "seb" ]
+        ],
+
+        "Landesbank Baden-Württemberg": [
+            [ "landesbank", "baden", "württemberg" ],
+            ["landesbank","bw"],
+            [ "lbbw" ]
+        ],
+
+        "Landeskreditbank Baden-Württemberg": [
+            [ "l bank", "badenwürttemberg" ],
+            ["landes","kredit","bank","baden"]
+
+        ],
+
+        "Oldenburgische Landesbank AG": [
+            [ "olb" ],
+            [ "oldenburg", "landesbank" ]
+        ],
+
+        "Degussa Bank AG": [
+            [ "degussa" ]
+        ],
+
+        "DWS Group": [
+            [ "dws" ]
+        ],
+
+        "Pax-Bank eG": [
+            [ "pax" ]
+        ],
+
+        "Société Générale S.A.": [
+            [ "société" ],
+            [ "societe" ],
+            [ "sociètè" ],
+            ["générale"]
+        ],
+
+        "Sumitomo Mitsui Banking Corporation": [
+            [ "smbc" ]
+        ],
+
+        "GLS Gemeinschaftsbank eG": [
+            [ "gls" ]
+        ],
+
+        "European Bank for Financial Services GmbH": [
+            [ "ebase" ]
+        ],
+
+        "MUFG Bank (Europe) N.V.": [
+            [ "mufg" ]
+        ],
+
+
+        "Hauck & Aufhäuser Privatbankiers AG": [
+            [ "hauck", "aufhäuser" ]
+        ],
+
+        "Barclays Bank": [
+            [ "barclays" ]
+        ],
+
+        "Concordia Versicherungs-Gesellschaft": [
+            [ "concordia" ]
+        ],
+
+        "Santander Consumer Bank AG": [
+            [ "santander", "bank" ]
+        ],
+
+        "Bank für Sozialwirtschaft AG": [
+            [ "sozial" ]
+        ],
+
+        "HSBC Trinkaus & Burkhardt AG": [
+            [ "hsbc" ]
+        ],
+
+        "PayPal SE": [
+            [ "paypal" ]
+        ],
+
+        "Baden-Württembergische Bank": [
+            [ "baden", "württemberg", "bank" ],
+            [ "baden", "würtemberg", "bank" ],
+            [ "baden", "würrtemberg", "bank" ],
+            [ "bw bank" ]
+        ],
+
+        "Bayerische Landesbank": [
+            [ "bayern lb" ],
+            [ "bayernlb" ]
+        ],
+
+        "ABN AMRO Bank N.V.": [
+            [ "abn", "amro"]
+        ],
+
+        "KfW IPEX-Bank GmbH": [
+            [ "kfw" ]
+        ],
+
+        "Penta Fintech GmbH": [
+            [ "penta", "fintech" ]
+        ],
+
+        "Chong Hing Bank": [
+            [ "ch bank deutschland" ]
+        ],
+
+        "Landesbank Hessen-Thüringen Girozentrale": [
+            [ "landesbank hessen thüringen" ],
+            [ "helaba" ]
+        ],
+
+        "Donner & Reuschel AG": [
+            [ "donner", "reuschel" ]
+        ],
+
+        "Otto M. Schröder Bank AG": [
+            [ "otto" ]
+        ],
+
+        "BNP Paribas S.A.": [
+            [ "bnp" ]
+        ],
+
+        "TARGOBANK AG & Co. KGaA": [
+            [ "targo" ]
+        ],
+
+        "Berliner Sparkasse": [
+            [ "sparkasse", "berliner" ],
+            ["sparkasse berlin"]
+        ],
+
+        "Citibank N.A.": [
+            [ "citibank" ]
+        ],
+
+        "Internationales Bankhaus Bodensee AG": [
+            [ "bankhaus bodensee" ]
+        ],
+
+        "Volksbank pur eG": [
+            [ "volksbank pur" ]
+        ],
+
+        "Südwest Bank AG": [
+            [ "südwestbank" ]
+        ],
+
+        "Berlin Hyp AG": [
+            [ "berlin", "hypovereinsbank" ],
+            ["berlin","hyp"]
+        ],
+
+        "HypoVereinsbank (Unicredit Bank)": [
+            [ "hypo", "verein" ],
+            [ "hvb" ]
+        ],
+
+        "UniCredit Group": [
+            [ "uni","credi" ]
+        ],
+
+
+        "Münchener Hypothekenbank AG": [
+            [ "hypothek", "münch" ]
+        ],
+
+        
+
+        "Comco Leasing GmbH": [
+            [ "comco" ]
+        ],
+
+        "MMV Leasing GmbH ": [
+            [ "mmv" ]
+        ],
+
+        "Würth Leasing GmbH & Co. KG": [
+            [ "würth" ]
+        ],
+
+        "SüdLeasing GmbH": [
+            [ "südleasing" ]
+        ],
+
+        "Hamburger Sparkasse AG": [
+            [ "hamburg", "sparkasse" ],
+            ["haspa"]
+        ],
+
+        "Aareal Bank AG": [
+            [ "aareal" ]
+        ],
+
+        "LBS Landesbausparkasse Südwest": [
+            [ "lbs", "südwest" ],
+            [ "landesbausparkasse", "südwest" ]
+        ],
+
+        "Sparkasse Haslach-Zell": [
+            [ "sparkasse", "kinzigtal" ]
+        ],
+
+        "Linde Leasing GmbH": [
+            [ "linde", "leasing" ]
+        ],
+
+
+        "Raisin Bank AG": [
+            [ "raisin" ]
+        ],
+
+        "flatexDEGIRO Bank AG": [
+            [ "flatex" ]
+        ],
+
+        "ING-DiBa AG": [
+            [ "ing bank" ]
+        ],
+
+        "Bank für Tirol und Vorarlberg AG": [
+            [ "btv" ]
+        ],
+
+        "MKB Mittelstandskreditbank AG": [
+            [ "mkb", "kredit" ]
+        ],
+
+        "MKB Mittelrheinische Bank Gesellschaft mit beschränkter Haftung": [
+            [ "mkb" ]
+        ],
+
+        "Intesa Sanpaolo S.p.A.": [
+            [ "paolo" ]
+        ],
+
+        "DKM Darlehnskasse Münster eG": [
+            [ "dkm" ]
+        ],
+
+        "Allianz Lebensversicherungs- AG": [
+            [ "allianz", "leben" ]
+        ],
+
+        "Allianz Asia Private Credit Funds SA": [
+            [ "allianz", "credit" ]
+        ],
+
+        "Allianz Trade": [
+            [ "allianz", "trade" ],
+            ["euler" , "hermes"]
+        ],
+
+        "Allianz Pension Consult GmbH": [
+            [ "allianz", "pension" ]
+        ],
+
+        "abcfinance GmbH": [
+            [ "abc", "finance" ]
+        ],
+
+        "Arab Banking Corporation, Daus & Co. GmbH": [
+            [ "abc"]
+        ],
+
+        "Frankfurter Volksbank eG": [
+            [ "frankfurter", "volksbank" ]
+        ],
+
+        "Wirtschafts- und Infrastrukturbank Hessen": [
+            [ "wirtschaft", " infrastruktur" ]
+        ],
+
+        "Cronbank": [
+            [ "cron" ]
+        ],
+
+        "Compagnie Française d'Assurance pour le Commerce Extérieur": [
+            [ "coface" ]
+        ],
+
+        "VR Smart Finanz AG": [
+            [ "vr", "smart", "finanz" ]
+        ],
+
+        "EY (Ernst & Young GmbH) Wirtschaftsprüfungsgesellschaft": [
+            [ "ernst", "young" ]
+        ],
+
+        "UBS Europe SE": [
+            [ "ubs" ]
+        ],
+
+        "Zurich Insurance plc": [
+            [ "zurich", "insurance" ]
+        ],
+
+        "OLINDA Zweigniederlassung Deutschland": [
+            [ "olinda" ]
+        ],
+
+        "Sydbank A/S": [
+            [ "syd", "bank" ]
+        ],
+
+        "Merck Finck Privatbankiers AG": [
+            [ "merck", "finck" ]
+        ],
+
+        "Scania Finance Deutschland GmbH": [
+            [ "scania" ]
+        ],
+
+        "Mizuho Bank": [
+            [ "mizuho" ]
+        ],
+
+        "DEVK Versicherungen":[
+            ["devk"]
+        ],
+
+        "National-Bank AG":[
+            ["national bank"]
+        ],
+
+        "Volksbank eG Gera . Jena . Rudolstadt":[
+            ["voba","gera"]
+        ],
+
+        "Lufthansa Kreditkarte":[
+            ["lufthansa","kredit","karte"]
+        ],
+
+        "Swiss RE International SE":[
+            ["swiss","re","international"]
+        ],
+
+        "GLAS SAS":[
+            ["glas","sas"]
+        ],
+
+        "Muster Bank AG":[
+            ["muster","bank"]
+        ],
+
+        "Nufin GmbH":[
+            ["nufin"]
+        ],
+        
+        "BayernInvest Luxembourg SA":[
+        ["bayern","labo"],
+        ["bayern","invest"]
+        ],
+
+        "Kapilendo AG":[
+            ["kapilendo"]
+        ],
+
+        "Volvo Financial Services GmbH":[
+            ["volvo"]
+        ],
+
+        "Sparkasse KölnBonn":[
+            ["sparkasse","bonn","köln"]
+        ],
+
+        "HPG Capital GmbH":[
+            ["hpg","capital"]
+        ],
+
+        "Crédit Agricole Corporate and Investment Bank":[
+            ["agricole"]
+        ],
+
+        "ETL Finance GmbH":[
+            ["etl"]
+        ],
+
+        "ODDO BHF AG":[
+            ["oddo","bhf"]
+        ],
+
+        "KRAVAG Versicherung":[
+            ["kravag"]
+        ],
+
+        "Bank Audi":[
+            ["audi"]
+        ],
+        
+        "Bank 1 Saar eG": [
+            [ "bank","1" ,"saar"]
+        ],
+
+        "Deutsche Handelsbank AG": [
+            [ "handel", "bank" ]
+            ],
+
+        "Bank11 für Privatkunden und Handel GmbH": [
+            [ "bank", "11" ]
+        ],
+
+        "Berenberg Bank":[
+            ["berenberg","bank"]
+        ],
+
+        "Danske Bank A/S":[
+            ["dankse","bank"]
+        ],
+        
+        "Iveco Capital":[
+            ["iveco"]
+        ],
+
+        "Miller Leasing Miete GmbH":[
+            ["miller","leasing"]
+        ],
+
+        "Pictet & Cie (Europe) S.A.":[
+            ["pictet","cie"]
+        ],
+
+        "FCA Bank Deutschland GmbH":[
+            ["fca","bank"]
+        ],
+
+        "MorgenFund GmbH":[
+            ["morgen","fund"]
+        ],
+
+        "PEAC (Germany) GmbH":[
+            ["peac"]
+        ],
+
+        "die Bayerische Finanzberatungs- und Vermittlungs-GmbH":[
+            ["bayerische","finanzberatung","gmbh"]
+        ],
+
+        "Holvi Payment Services":[
+            ["holvi","payment"]
+        ],
+
+        "Oberbank Leasing GmbH Bayern":[
+            ["oberbank","leasing"]
+        ],
+
+        "J.P. Morgan AG":[
+            ["jpmorgan"],
+            ["jpmogan"]
+        ],
+
+        "Süddeutsche Lebensversicherung a.G":[
+            ["süddeutsche","lebensversicherung"]
+        ],
+        
+        "HDI AG":[
+            ["hdi","ag"]
+        ],
+
+        "Joh. Berenberg, Gossler & Co. KG":[
+            ["joh"],
+            ["berenberg","bank"]
+        ],
+
+        "Generali Deutschland":[
+            ["generali"]
+        ],
+
+        "Goldman Sachs Bank Europe SE":[
+            ["goldman"]
+        ],
+
+        "GEFA BANK GmbH":[
+            ["gefa","bank"]
+        ],
+
+        "MLF Mercator-Leasing GmbH & Co. Finanz KG":[
+            ["mlf","mercator"]
+        ],
+
+        "Sparkasse Worms-Alzey-Ried":[
+            ["rheinhessen","sparkasse"]
+        ],
+
+        "Rhön-Rennsteig-Sparkasse":[
+            ["rennsteig","rhön"]
+        ],
+
+        "solarisBank AG":[
+            ["solaris"]
+        ],
+        
+
+        "Deutsche Bank": [
+            [ "deutsch", " bank", "ag" ],
+            [ "deutsch", "bank" ],
+            [ "deutsch", "bank", "aktiensgesellschaft" ]
+        ]
+
+    },
+    "Original_Banks":
+    {
+        "Landeskreditbank Baden-Württemberg":[
+            ["L-Bank"],
+            ["L‑Bank"]
+            
+        ],
+
+        "J.P. Morgan AG": [
+            [ "J.P." ],
+            ["JP Morgan"]
+        ],
+
+        "Volkswagen Bank":[
+            ["VW"],
+            ["Volkswagen"]
+        ],
+
+        "Allianz":[
+            ["Allianz"]
+        ],
+
+        "SaarLB - Deutsch-französische Bank":[
+            ["SaarLB"]
+        ],
+
+        "Deutsche Bank":[
+            ["DB Privat- und Firmenkundenbank"]
+        ],
+
+        "VHV Allgemeine Versicherung":[
+            ["VHV"]
+        ]
+    }
+}
+
+
