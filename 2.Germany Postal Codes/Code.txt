@@ -1,0 +1,11 @@
+dataframe_zip_codes=pd.read_csv('german-postcodes.csv',delimiter=';')
+dataframe_zip_codes=dataframe_zip_codes[~dataframe_zip_codes['Plz'].isna()]
+#dataframe_zip_codes['Plz']=dataframe_zip_codes['Plz'].apply(lambda x:int(x))
+dataframe_zip_codes['Plz']=dataframe_zip_codes['Plz'].astype(str)
+dataframe_zip_codes['Plz']=dataframe_zip_codes['Plz'].apply(lambda x:x.strip())
+dataframe_zip_codes['Ort']=dataframe_zip_codes['Ort'].apply(lambda x:x.strip())
+dataframe_zip_codes['Plz']=dataframe_zip_codes['Plz'].apply(lambda x:'0'+str(x) if len(x)==4 else x)
+dataframe_zip_codes=dataframe_zip_codes[['Plz','Ort']]
+dataframe_zip_codes.rename(columns={'Plz':'PLZ'},inplace=True)
+dataframe_zip_codes=dataframe_zip_codes.drop_duplicates(subset='PLZ')
+dataframe_zip_codes.head()
